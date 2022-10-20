@@ -1,2 +1,4 @@
 node_modules
 cdk.out
+.vscode/launch.json
+test
